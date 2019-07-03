@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash = {:pets => "pedro", "pablo"}
+ {:pets => "pedro", "pablo"}
  my_hash[pets]
 end 
 
