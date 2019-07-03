@@ -3,8 +3,9 @@ def new_hash
 end
 
 def my_hash
- 
-end # return a valid hash with any key/value pair of your choice
+ my_hash = {:pets => "pedro", "pablo"}
+ my_hash[pets]
+end 
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
